@@ -4,7 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RolandGamos)](https://github.com/anuraghazra/github-readme-stats) <!-- Github top languages stats -->
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/lwglarz)](https://github.com/JaeSeoKim/badge42) <!-- 42 badge -->
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/lweglarz?darkmode=true&cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
+ <!-- 42 badge -->
 
 <!--
 **RolandGamos/RolandGamos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
