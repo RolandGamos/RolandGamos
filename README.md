@@ -1,6 +1,6 @@
 ### Hi there I'm Lucas👋
 
-I am interested in embedded and low level software engineering.
+I am a software engineering student interested in low level software engineering but open to any interesting subjects.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luweglarz&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <!-- Github commits stats -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luweglarz&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
